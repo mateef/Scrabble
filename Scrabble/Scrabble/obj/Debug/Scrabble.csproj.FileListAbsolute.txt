@@ -1,0 +1,14 @@
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\obj\Debug\Scrabble.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Patrik\Desktop\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csprojAssemblyReference.cache
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Máté\Downloads\Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
